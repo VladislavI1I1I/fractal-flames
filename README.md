@@ -24,4 +24,4 @@
    
 ### Пример результата генерации:
 
-   ![Пример фото](src\main\resources\beauty.png)
+   ![Пример фото](https://github.com/VladislavI1I1I/fractal-flames/blob/main/src/main/resources/beauty.png)
